@@ -86,12 +86,10 @@ Gosto de aprender coisas novas, enfrentar desafios e contribuir com projetos que
     style="padding-right: 10px;" 
     src="https://devicon-website.vercel.app/api/django/plain.svg">
     </img>
-    <td align="center" width="96">
       <a href="https://www.python.org/">
         <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="40" height="40" />
       </a>
-      <br>Python
-    </td>
+      <br>
 
 <img 
     align="left"
