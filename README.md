@@ -11,10 +11,7 @@ Sou apaixonado por tecnologia e por desenvolver sistemas que resolvem problemas 
 Gosto de aprender coisas novas, enfrentar desafios e contribuir com projetos que gerem valor de verdade. Aqui no GitHub, compartilho alguns dos meus estudos, ideias e experiências.</p>
 
 <br>
-<h2 align="center">💻 My tech stack:</h2>
-<table align="center">
-<tr>
-   
+
 ### 🤖 Linguagens e Tecnologias
 
 <img 
