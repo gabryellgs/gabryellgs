@@ -92,7 +92,7 @@ Gosto de aprender coisas novas, enfrentar desafios e contribuir com projetos que
   />
 
 <img 
-      align="left" 
+      align="right" 
       alt="GitHub Stats" 
       height="200" 
       style="padding-right: 10px;"
