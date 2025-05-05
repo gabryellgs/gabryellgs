@@ -1,8 +1,9 @@
 <h1 align="center">Gabryell Gonçalves</h1>
 <p align="center">
   <img
+    width="300"
     height="auto"
-    margin-left="30px"
+    align="center"
     src=https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=86079C&width=435&lines=Hello+world>
 </p>
 <p align="center">
