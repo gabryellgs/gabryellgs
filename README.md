@@ -12,8 +12,8 @@ Gosto de aprender coisas novas, enfrentar desafios e contribuir com projetos que
 
 <br>
 
-<h1 align="center" 🤖 Linguagens e Tecnologias h1/>
-
+<h1 align="center"> 🤖 Linguagens e Tecnologias h1/>
+   
 ####
 <table>
 <div style="display: flex; align-items: flex-start; align: center">
