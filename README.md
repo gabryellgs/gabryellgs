@@ -80,7 +80,7 @@ Gosto de aprender coisas novas, enfrentar desafios e contribuir com projetos que
 
 
 
-### 📊 Estatísticas
+<h1 align="center"> 📊 Estatísticas <h1/>
 
 <p>
   <img 
