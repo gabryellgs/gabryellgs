@@ -26,7 +26,8 @@ Gosto de aprender coisas novas, enfrentar desafios e contribuir com projetos que
     align="left" 
     alt="CSS" 
     title="CSS"
-    width="30px" 
+    width="30px"
+    margin-top="-5px"
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
