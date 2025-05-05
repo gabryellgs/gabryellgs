@@ -66,17 +66,13 @@ Gosto de aprender coisas novas, enfrentar desafios e contribuir com projetos que
         <img src="https://skillicons.dev/icons?i=css" width="40" height="40" alt="css" />
       <br>CSS
     </td>
-  </tr>
- <tr>
-      </td>
-              <td align="center" width="96">
+     <td align="center" width="96">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" alt="https://www.java.com" />
       <br>Java
     </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=postgres" width="40" height="40" alt="PostgreSQL" />
-      <br>PostgreSQL
-    </td>
+  </tr>
+ <tr>
+      </td>
  </tr>
 </table>
 <br><br>
