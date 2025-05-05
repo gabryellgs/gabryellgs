@@ -1,6 +1,6 @@
 <h1 align="center">Gabryell Gonçalves</h1>
 <p align="center">
-   <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&duration=1500&pause=1000&lines=hello+world;Website+Developer;Gabryell+Gonçalves" width="auto" height="35" alt="Typing"/>
+   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=86079C&width=435&lines=Hello+world;my+name+is+Gabryell+Gon%C3%A7alves)](https://git.io/typing-svg)/>
 </p>
 <p align="center">
   <img src="https://res.cloudinary.com/dry07iyvo/image/upload/v1735366890/coding_utrxxa.gif" width="300" height="auto" alt="Coding"/>
