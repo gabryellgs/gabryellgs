@@ -1,5 +1,5 @@
 <h1 align="center">Gabryell Gonçalves</h1>
-<p align="center">
+<p>
   <img
     width="435"
     height="auto"
