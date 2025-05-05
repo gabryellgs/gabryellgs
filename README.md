@@ -35,8 +35,6 @@ Gosto de aprender coisas novas, enfrentar desafios e contribuir com projetos que
     alt="JavaScript" 
     title="JavaScript"
     width="60px"
-    height="40px"
-    style="padding-right: 10px;" 
     src="https://techstack-generator.vercel.app/js-icon.svg"
 />
 <img 
