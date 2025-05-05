@@ -72,14 +72,14 @@ Gosto de aprender coisas novas, enfrentar desafios e contribuir com projetos que
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
 />
-<img 
+
+<img
     align="left" 
-    alt="SASS" 
-    title="SASS"
+    alt="Django" 
+    title="Django"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" 
-/>
+    src="https://devicon-website.vercel.app/api/django/plain.svg"></img>
 <img 
     align="left" 
     alt="PHP" 
