@@ -1,6 +1,6 @@
 <h1 align="center">Gabryell Gonçalves</h1>
 <p align="center">
-  <img src=https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=86079C&width=435&lines=Hello+world;my+name+is+Gabryell+Gon%C3%A7alves)](https://git.io/typing-svg)>
+  <img align="center" src=https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=86079C&width=435&lines=Hello+world;my+name+is+Gabryell+Gon%C3%A7alves)](https://git.io/typing-svg)>
 </p>
 <p align="center">
   <img src="https://res.cloudinary.com/dry07iyvo/image/upload/v1735366890/coding_utrxxa.gif" width="300" height="auto" alt="Coding"/>
