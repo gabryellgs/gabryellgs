@@ -92,7 +92,7 @@ Gosto de aprender coisas novas, enfrentar desafios e contribuir com projetos que
         title="Python"
         width="30px" 
         style="padding-right: 10px;"
-        <img src="https://techstack-generator.vercel.app/python-icon.svg"
+        src="https://techstack-generator.vercel.app/python-icon.svg"
     </img>
 
 <img 
