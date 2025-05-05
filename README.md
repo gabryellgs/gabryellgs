@@ -1,11 +1,8 @@
 <h1 align="center">🧑‍💻 Gabryell Gonçalves</h1>
-<table align="center">
-  <tr>
-    <td align="center">
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=86079C&width=435&lines=Hello+World;Transformando+café+em+código...;Desenvolvedor+em+constante+evolução;Keep+calm+and+code+on" alt="Typing SVG" />
-    </td>
-  </tr>
-</table>
+</p>
+
 
 <p align="center">
   <img src="https://res.cloudinary.com/dry07iyvo/image/upload/v1735366890/coding_utrxxa.gif" width="300" height="auto" alt="Coding"/>
