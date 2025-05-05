@@ -66,36 +66,30 @@ Gosto de aprender coisas novas, enfrentar desafios e contribuir com projetos que
 />
 <img 
     align="left" 
-    alt="Tailwind" 
-    title="Tailwind"
+    alt="Java"
+    title="Java" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
-/>
-
+    src="https://devicon-website.vercel.app/api/java/original-wordmark.svg">
+    </img>
 <img
     align="left" 
     alt="Django" 
     title="Django"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://devicon-website.vercel.app/api/django/plain.svg"></img>
+    src="https://devicon-website.vercel.app/api/django/plain.svg">
+    </img>
+
 <img 
-    align="left" 
-    alt="PHP" 
-    title="PHP"
+    align="left"
+    alt="Mysql" 
+    title="Mysql"
     width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Laravel" 
-    title="Laravel"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" 
-/>
+    style="padding-right: 10px;"
+    src="https://devicon-website.vercel.app/api/mysql/original-wordmark.svg">
+    </img>
+
 <img 
     align="left" 
     alt="JQuery" 
