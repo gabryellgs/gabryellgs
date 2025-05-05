@@ -27,7 +27,6 @@ Gosto de aprender coisas novas, enfrentar desafios e contribuir com projetos que
     alt="CSS" 
     title="CSS"
     width="30px"
-    margin-top="-5px"
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
@@ -35,7 +34,8 @@ Gosto de aprender coisas novas, enfrentar desafios e contribuir com projetos que
     align="left" 
     alt="JavaScript" 
     title="JavaScript"
-    width="50px" 
+    width="50px"
+    alt="icon" width="40" height="40" 
     style="padding-right: 10px;" 
     src="https://techstack-generator.vercel.app/js-icon.svg"
 />
