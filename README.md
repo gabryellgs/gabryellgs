@@ -9,11 +9,7 @@
 <p align="justify">Olá! Meu nome é Gabryell da Silva Gonçalves, tenho 21 anos e atualmente estou cursando Sistemas para Internet no IFRN – Campus Canguaretama.
 Sou apaixonado por tecnologia e por desenvolver sistemas que resolvem problemas do mundo real.
 Gosto de aprender coisas novas, enfrentar desafios e contribuir com projetos que gerem valor de verdade. Aqui no GitHub, compartilho alguns dos meus estudos, ideias e experiências.</p>
-<p align="center">
-   <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&duration=1500&pause=1000&lines=Artificial+Intelligence;Machine+Learning;Data+Science" width="auto" height="35" alt="Typing"/>
-</p>
-<p align="center">Currently learning -> Desenvolvedor web</p>
-<p align="center">Currently working on -> Private Projects</p>
+
 <br>
 <h2 align="center">💻 My tech stack:</h2>
 <table align="center">
