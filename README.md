@@ -4,9 +4,6 @@
 </p>
 
 
-<p align="center">
-  <img src="https://res.cloudinary.com/dry07iyvo/image/upload/v1735366890/coding_utrxxa.gif" width="300" height="auto" alt="Coding"/>
-</p>
 <h2 align="center">👨🏻‍💻 About me:</h2>
 <p align="justify">Olá! Meu nome é Gabryell da Silva Gonçalves, tenho 21 anos e atualmente estou cursando Sistemas para Internet no IFRN – Campus Canguaretama.
 Sou apaixonado por tecnologia e por desenvolver sistemas que resolvem problemas do mundo real.
