@@ -91,8 +91,8 @@ Gosto de aprender coisas novas, enfrentar desafios e contribuir com projetos que
 <img 
       align="right" 
       alt="GitHub Stats" 
-      height="200" 
-      style="padding-right: 10px;"
+      height="160" 
+      style="padding-right: 5px;"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabryellgs&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
