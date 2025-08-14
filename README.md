@@ -64,13 +64,23 @@ Apaixonado por tecnologia, busco sempre aprender e evoluir em áreas como <b>des
 
 ---
 
-<p align="center">## 📊 Estatísticas</p>
+<p align="center">## 📊 Estatísticas & Troféus</p>
+
 <p align="center">
+  <!-- Linguagens principais -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabryellgs&theme=gotham&layout=compact" width="40%">
 </p>
+
 <p align="center">
+  <!-- Estatísticas gerais -->
   <img src="https://github-readme-stats-one-bice.vercel.app/api?username=gabryellgs&theme=gotham&show_icons=true&count_private=true" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=gabryellgs&theme=gotham" width="48%">
+  <!-- Streaks -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gabryellgs&theme=gotham" width="48%">
+</p>
+
+<p align="center">
+  <!-- Troféus -->
+  <img src="https://github-profile-trophy.vercel.app/?username=gabryellgs&theme=dracula&layout=compact" width="95%">
 </p>
 
 ---
@@ -78,13 +88,6 @@ Apaixonado por tecnologia, busco sempre aprender e evoluir em áreas como <b>des
 <p align="center">## 📈 Atividade</p>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=gabryellgs&theme=gotham&area=true" width="95%">
-</p>
-
----
-
-<p align="center">## 🏆 Troféus</p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gabryellgs&theme=dracula&layout=compact" width="95%">
 </p>
 
 ---
