@@ -58,7 +58,7 @@
 <a href="https://discord.com/users/jrohitofficial_#1528" target="_blank"><img alt="" src="https://img.shields.io/badge/discord-000?style=for-the-badge&logo=discord&logoColor=4e5d94" style="vertical-align:center" /></a>
 <a href="https://jrohit.com.np" target="_blank"><img alt="" src="https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=yellow&style=for-the-badge" style="vertical-align:center" /></a>
 <a href="https://linkedin.com/in/gabryellgs" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=0A66C2&style=for-the-badge" style="vertical-align:center" /></a>
-<a href="https://instagram.com/gabryellgs" target="_blank"><img alt="" src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=Instagram&logoColor=E4405F" style="vertical-align:center" /></a>
+<a href="https://instagram.com/gabryell.gs_" target="_blank"><img alt="" src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=Instagram&logoColor=E4405F" style="vertical-align:center" /></a>
 </p>
 
 
@@ -262,7 +262,7 @@
 <!-- activity graph heroku-app start -->
 <p align="center">
     <a href="https://jrohit.com.np/">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=jrohitofficial&theme=gotham&hide_border=false&hide_title=false&area=true&custom_title=Total%20Contribution%20Graph%20In%20All%20Repo" width="95%" alt="activity graph">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=gabryellgs&theme=gotham&hide_border=false&hide_title=false&area=true&custom_title=Total%20Contribution%20Graph%20In%20All%20Repo" width="95%" alt="activity graph">
     </a>
 </p>
 <!-- activity graph heroku-app end -->
@@ -270,23 +270,11 @@
 
 <p align="center">
     <a href="https://github.com/jrohitofficial/jrohitofficial">
-        <img src="https://github-profile-trophy.vercel.app/?username=jrohitofficial&column=-1&theme=dracula&layout=compact"width="95%"/> 
+        <img src="https://github-profile-trophy.vercel.app/?username=gabryellgs&column=-1&theme=dracula&layout=compact"width="95%"/> 
 </p>
 
 
 
-
-<details>
-  <summary>Skills</summary>
-  
-- Problem Solving
-- Youtuber
-- Blogging
-- Web Content Writing
-- Video Editing
-- Blogger
-- Researching & Learning
-</details>
 
 
 
