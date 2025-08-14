@@ -50,7 +50,6 @@
     <td align="center" width="96"><a href="https://www.python.org/"><img src="https://techstack-generator.vercel.app/python-icon.svg" width="40" height="40" /></a><br>Python</td>
     <td align="center" width="96"><img src="https://techstack-generator.vercel.app/js-icon.svg" width="40" height="40" /><br>JavaScript</td>
     <td align="center" width="96"><img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="40" height="40" /><br>C++</td>
-    <td align="center" width="96"><img src="https://techstack-generator.vercel.app/webpack-icon.svg" width="40" height="40" /><br>Webpack</td>
     <td align="center" width="96"><img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="40" height="40" /><br>MySQL</td>
     <td align="center" width="96"><img src="https://techstack-generator.vercel.app/ts-icon.svg" width="40" height="40" /><br>TypeScript</td>
     <td align="center" width="96"><img src="https://techstack-generator.vercel.app/aws-icon.svg" width="40" height="40" /><br>AWS</td>
@@ -64,7 +63,6 @@
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=html" width="40" height="40" /><br>HTML5</td>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=css" width="40" height="40" /><br>CSS</td>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=bootstrap" width="40" height="40" /><br>Bootstrap</td>
-    <td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="40" height="40" /><br>Android</td>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=jquery" width="40" height="40" /><br>jQuery</td>
   </tr>
   <tr>
@@ -73,7 +71,6 @@
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=php" width="40" height="40" /><br>PHP</td>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=vscode" width="40" height="40" /><br>VsCode</td>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=wordpress" width="40" height="40" /><br>WordPress</td>
-    <td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" width="40" height="40" /><br>Dotnet</td>
     <td align="center" width="96"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="40" height="40" /><br>SQLite</td>
     <td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" /><br>Java</td>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=postgres" width="40" height="40" /><br>PostgreSQL</td>
