@@ -23,6 +23,16 @@
   Gabryell Gonçalves
 </p>
 
+<!-- Typing Animation: Developer Skills -->
+<p align="center">
+  <a href="https://github.com/jrohitofficial/readme-typing-svg" target="_blank">
+    <img 
+      src="https://readme-typing-svg.demolab.com?lines=SOFTWARE%20ENGINEER;ETHICAL%20HACKER;FULL-STACK%20WEB%20AND%20APP%20DEVELOPER;ARTIFICIAL%20INTELLIGENCE%20(AI);PROGRAMMER;YOUTUBER;EXPERIENCED%20UI%2FUX%20DESIGNER;3%2B%20YEAR's%20OF%20CODING%20EXPERIENCE;ALWAYS%20LEARNING%20NEW%20THINGS&font=Fira+Code&center=true&width=600&height=45&color=20C20E&vCenter=true&pause=1000&size=22"
+      alt="Professional Titles"
+    />
+  </a>
+</p>
+
 
 
 
