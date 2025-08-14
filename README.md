@@ -86,8 +86,9 @@ Apaixonado por tecnologia, busco sempre aprender e evoluir em áreas como <b>des
 ---
 
 <p align="center">## 📈 Atividade</p>
+<!-- Git da Cobra / GitHub Snake -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gabryellgs&theme=gotham&area=true" width="95%">
+  <img src="https://raw.githubusercontent.com/gabryellgs/github-readme-snake/main/github-snake.svg" alt="GitHub Snake" width="95%">
 </p>
 
 ---
