@@ -78,6 +78,7 @@
   </tr>
 </table>
 
+<br>
 
 <!-- Motivational Quote -->
 <div align="center">
