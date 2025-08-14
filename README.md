@@ -31,6 +31,8 @@
 
 <img src="https://github.com/gabryellgs/gabryellgs/blob/master/2nd%20arrow.gif?raw=true">
 
+<br>
+
 <!-- Contatos -->
 <h2 align="center">Contatos</h2>
 <p align="center">
