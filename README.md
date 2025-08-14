@@ -99,14 +99,14 @@
 <br>
 
 <!-- Motivational Quote -->
-<div align="center">
   <i style="font-size: 10px;">
+    <h2 align="center">
     "Don't ever let somebody tell you, you can't do something! <br>
     <b>You got a dream… You gotta protect it</b>.<br>
     People can’t do something themselves, they wanna tell you you can’t do it. <br>
     <b>If you want something, go get it. Period</b>"
+    </h2>
   </i>
-</div>
 
 <!-- Typing SVG -->
 <p align="center">
