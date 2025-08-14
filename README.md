@@ -42,6 +42,7 @@
   <a href="https://instagram.com/gabryel.gs_" target="_blank"><img src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=Instagram&logoColor=E4405F" /></a>
 </p>
 
+<br>
 <!-- Skills -->
 <h3 align="center">Linguagens e Tecnologias</h3>
 <table align="center">
