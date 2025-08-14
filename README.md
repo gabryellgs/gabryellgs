@@ -28,7 +28,9 @@
 
 <p align="center">
   <a href="https://github.com/jrohitofficial/readme-typing-svg" target="_blank">
-    <p>Sou Gabryell, estudante de Sistemas para Internet no IFRN - Campus Canguaretama. Apaixonado por tecnologia, busco sempre aprender e evoluir em áreas como desenvolvimento web, backend com Laravel e automação em Linux.</p>
+    <p>I am Gabryell Gonçalves, a student of Internet Systems at the Federal Institute of Rio Grande do Norte – Canguaretama Campus. I have a strong interest in digital technologies and software development, with a focus on web development, backend development using Laravel, Linux automation, and database management.
+
+I am committed to continuously enhancing my knowledge and skills, combining theory and practice, with the goal of becoming a highly qualified and versatile professional in the field of information technology, contributing significantly to innovative projects.</p>
   </a>
 </p>
 
