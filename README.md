@@ -43,6 +43,7 @@
 </p>
 
 <!-- Skills -->
+<h3 align="center">Linguagens e Tecnologias</h3>
 <table align="center">
   <tr>
     <td align="center" width="96"><img src="https://techstack-generator.vercel.app/react-icon.svg" width="40" height="40" /><br>React</td>
@@ -79,19 +80,6 @@
   </tr>
 </table>
 
-<!-- Activity Graph -->
-<p align="center">
-  <a href="https://jrohit.com.np/">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=gabryellgs&theme=gotham&hide_border=false&hide_title=false&area=true&custom_title=Total%20Contribution%20Graph%20In%20All%20Repo" width="95%" alt="activity graph">
-  </a>
-</p>
-
-<!-- GitHub Trophies -->
-<p align="center">
-  <a href="https://github.com/jrohitofficial/jrohitofficial">
-    <img src="https://github-profile-trophy.vercel.app/?username=gabryellgs&column=-1&theme=dracula&layout=compact" width="95%"/>
-  </a>
-</p>
 
 <!-- Motivational Quote -->
 <div align="center">
