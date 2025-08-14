@@ -354,41 +354,6 @@ public class CodeBite {
 
 
 
-####
-<br clear="both">
-<p align="center">🅰🅲🆃🅸🆅🅸🆃🅸🅴🆂</p>
- <p align="center">
-  <a href="https://jrohit.com.np/" target="_blank">
-    <img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/Man%20Bouncing%20Ball%20Medium-Dark%20Skin%20Tone.png?raw=true" alt="Azure" width="40" height="40" />
-  </a>
-
-  <a href="https://jrohit.com.np" target="_blank">
-    <img src="https://raw.githubusercontent.com/jrohitofficial/jrohitofficial/master/Soccer%20Ball.webp" alt="Azure" width="40" height="40" />
-  </a>
-
-  <a href="https://jrohit.com.np" target="_blank">
-    <img src="https://raw.githubusercontent.com/jrohitofficial/jrohitofficial/master/Video%20Game.webp" alt="Azure" width="40" height="40" />
-  </a>
-
-  <a href="https://jrohit.com.np" target="_blank">
-    <img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/Musical%20Notes.png?raw=true" alt="Azure" width="40" height="40" />
-  </a>
-
-  <a href="https://jrohit.com.np" target="_blank">
-    <img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/Man%20Technologist%20Medium-Dark%20Skin%20Tone.png?raw=true" alt="Azure" width="40" height="40" />
-  </a>
-  <a href="https://jrohit.com.np" target="_blank">
-    <img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/globe.gif?raw=true" alt="Azure" width="40" height="40" />
-  </a>
-  <a href="https://jrohit.com.np" target="_blank">
-    <img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/book.gif?raw=true" alt="Azure" width="40" height="40" />
-  </a>
-  <a href="https://jrohit.com.np" target="_blank">
-    <img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/music.gif?raw=true" alt="Azure" width="40" height="40"" />
-  </a>
-  
- </p>
-
 
 
 <p>
@@ -397,13 +362,7 @@ public class CodeBite {
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=50&size=25&pause=1000&color=20C20E&center=true&width=1000&lines=-------------------------------------------------------------------------------------------------" alt="Typing SVG" /></a>
 </p> 
 
-<br />
-
 <div align="center">
-
-
-
-
 
 
 <img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/line-neon.gif" width="100%"> 
