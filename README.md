@@ -70,14 +70,14 @@
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=postgres" width="40" height="40"/><br>PostgreSQL</td>
   </tr>
 </table>
-
+<br>
 <!-- Estatísticas -->
 <h2 align="center">Estatísticas</h2>
 <p align="center">
   <img alt="GitHub Stats" height="180" src="https://github-readme-stats.vercel.app/api?username=gabryellgs&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
   <img alt="Top Languages" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabryellgs&theme=tokyonight&layout=compact&langs_count=9&custom_title=Tecnologias" />
 </p>
-
+<br>
 <!-- Motivational Quote -->
 <h3 align="center" style="font-style: italic;">
   "Don't ever let somebody tell you, you can't do something! <br>
