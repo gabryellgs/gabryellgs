@@ -41,29 +41,35 @@
 
 <!-- Skills -->
 <h2 align="center">Linguagens e Tecnologias</h2>
-<p align="center">
-  <img src="https://techstack-generator.vercel.app/react-icon.svg" width="40" height="40" title="React"/>
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" width="40" height="40" title="Python"/>
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" width="40" height="40" title="JavaScript"/>
-  <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="40" height="40" title="C++"/>
-  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="40" height="40" title="MySQL"/>
-  <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="40" height="40" title="TypeScript"/>
-  <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="40" height="40" title="AWS"/>
-  <img src="https://techstack-generator.vercel.app/django-icon.svg" width="40" height="40" title="Django"/>
-  <img src="https://techstack-generator.vercel.app/github-icon.svg" width="40" height="40" title="GitHub"/>
-  <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="40" height="40" title="Git"/>
-  <img src="https://skillicons.dev/icons?i=laravel" width="40" height="40" title="Laravel"/>
-  <img src="https://skillicons.dev/icons?i=html" width="40" height="40" title="HTML5"/>
-  <img src="https://skillicons.dev/icons?i=css" width="40" height="40" title="CSS"/>
-  <img src="https://skillicons.dev/icons?i=bootstrap" width="40" height="40" title="Bootstrap"/>
-  <img src="https://skillicons.dev/icons?i=mongodb" width="40" height="40" title="MongoDB"/>
-  <img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40" title="Node.js"/>
-  <img src="https://skillicons.dev/icons?i=php" width="40" height="40" title="PHP"/>
-  <img src="https://skillicons.dev/icons?i=vscode" width="40" height="40" title="VSCode"/>
-  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="40" height="40" title="SQLite"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" title="Java"/>
-  <img src="https://skillicons.dev/icons?i=postgres" width="40" height="40" title="PostgreSQL"/>
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="96"><img src="https://techstack-generator.vercel.app/react-icon.svg" width="40" height="40"/><br>React</td>
+    <td align="center" width="96"><img src="https://techstack-generator.vercel.app/python-icon.svg" width="40" height="40"/><br>Python</td>
+    <td align="center" width="96"><img src="https://techstack-generator.vercel.app/js-icon.svg" width="40" height="40"/><br>JavaScript</td>
+    <td align="center" width="96"><img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="40" height="40"/><br>C++</td>
+    <td align="center" width="96"><img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="40" height="40"/><br>MySQL</td>
+    <td align="center" width="96"><img src="https://techstack-generator.vercel.app/ts-icon.svg" width="40" height="40"/><br>TypeScript</td>
+    <td align="center" width="96"><img src="https://techstack-generator.vercel.app/aws-icon.svg" width="40" height="40"/><br>AWS</td>
+  </tr>
+  <tr>
+    <td align="center" width="96"><img src="https://techstack-generator.vercel.app/django-icon.svg" width="40" height="40"/><br>Django</td>
+    <td align="center" width="96"><img src="https://techstack-generator.vercel.app/github-icon.svg" width="40" height="40"/><br>GitHub</td>
+    <td align="center" width="96"><img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="40" height="40"/><br>Git</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=laravel" width="40" height="40"/><br>Laravel</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=html" width="40" height="40"/><br>HTML5</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=css" width="40" height="40"/><br>CSS</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=bootstrap" width="40" height="40"/><br>Bootstrap</td>
+  </tr>
+  <tr>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=mongodb" width="40" height="40"/><br>MongoDB</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40"/><br>Node.js</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=php" width="40" height="40"/><br>PHP</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=vscode" width="40" height="40"/><br>VSCode</td>
+    <td align="center" width="96"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="40" height="40"/><br>SQLite</td>
+    <td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/><br>Java</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=postgres" width="40" height="40"/><br>PostgreSQL</td>
+  </tr>
+</table>
 
 <!-- Estatísticas -->
 <h2 align="center">Estatísticas</h2>
