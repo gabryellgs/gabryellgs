@@ -104,5 +104,5 @@ Apaixonado por tecnologia, busco sempre aprender e evoluir em áreas como <b>des
 
 <!-- Linha Neon -->
 <p align="center">
-  <img src="https://github.com/gabryellgs/gabryellgs/blob/master/line-neon.gif" width="100%">
+  <img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/line-neon.gif" width="100%">
 </p>
