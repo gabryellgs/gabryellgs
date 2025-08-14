@@ -5,7 +5,7 @@
 <!-- Avatar Central -->
 <p align="center">
   <a href="#em-andamento" target="_blank">
-    <img alt="Coding" width="200" src="DataCodingGIFbyPudgyPenguins-ezgif.com-animated-gif-maker.gif">
+    <img alt="Coding" width="200" src="yetopen.gif">
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="#em-andamento" target="_blank">
