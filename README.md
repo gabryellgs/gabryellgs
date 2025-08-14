@@ -5,7 +5,7 @@
 <!-- Avatar Central -->
 <p align="center">
   <a href="#emandamento" target="_blank">
-    <img alt="Coding" width="200" src="[https://tenor.com/search/rootme+root+me+hacking+hacker-gifs](https://tenor.com/ktxwWLhnWOZ.gif](https://tenor.com/bA3QI.gif)">
+    <img alt="Coding" width="200" src="https://tenor.com/search/rootme+root+me+hacking+hacker-gifs](https://tenor.com/ktxwWLhnWOZ.gif](https://tenor.com/bA3QI.gif">
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="#emandamento" target="_blank">
