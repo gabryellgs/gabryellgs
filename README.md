@@ -24,7 +24,7 @@
   </a>
 </p>
 
-<h1  align="center">Gabryell da Silva Gonçalves</h1>
+<h2  align="center">Gabryell da Silva Gonçalves</h2>
 
 <p align="center">
   <a href="https://github.com/jrohitofficial/readme-typing-svg" target="_blank">
@@ -35,7 +35,7 @@
 <img src="https://github.com/gabryellgs/gabryellgs/blob/master/2nd%20arrow.gif?raw=true">
 
 <!-- Contatos -->
-<h3 align="center">Contatos</h3>
+<h2 align="center">Contatos</h2>
 <p align="center">
   <a href="#em andamento" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=yellow&style=for-the-badge" /></a>
   <a href="https://linkedin.com/in/gabryellgs" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=0A66C2&style=for-the-badge" /></a>
@@ -44,7 +44,7 @@
 
 <br>
 <!-- Skills -->
-<h3 align="center">Linguagens e Tecnologias</h3>
+<h2 align="center">Linguagens e Tecnologias</h2>
 <table align="center">
   <tr>
     <td align="center" width="96"><img src="https://techstack-generator.vercel.app/react-icon.svg" width="40" height="40" /><br>React</td>
