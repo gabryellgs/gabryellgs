@@ -24,7 +24,7 @@
   </a>
 </p>
 
-<ph1  align="center"><>Gabryell da Silva Gonçalves</h1></p>
+<h1  align="center"><>Gabryell da Silva Gonçalves</h1>
 
 <p align="center">
   <a href="https://github.com/jrohitofficial/readme-typing-svg" target="_blank">
