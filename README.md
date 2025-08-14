@@ -19,13 +19,15 @@
 
 ---
 
-## 👋 Sobre Mim
-Sou **Gabryell**, estudante de **Sistemas para Internet** no IFRN - Campus Canguaretama.  
-Apaixonado por tecnologia, busco sempre aprender e evoluir em áreas como **desenvolvimento web**, **backend com Laravel** e **automação em Linux**.
+<p align="center">## 👋 Sobre Mim</p>
+<p align="center">
+Sou <b>Gabryell</b>, estudante de <b>Sistemas para Internet</b> no IFRN - Campus Canguaretama.<br>
+Apaixonado por tecnologia, busco sempre aprender e evoluir em áreas como <b>desenvolvimento web</b>, <b>backend com Laravel</b> e <b>automação em Linux</b>.
+</p>
 
 ---
 
-## 🛠️ Tecnologias
+<p align="center">## 🛠️ Tecnologias</p>
 <table align="center">
   <tr>
     <td align="center" width="96"><img src="https://techstack-generator.vercel.app/react-icon.svg" width="40"><br>React</td>
@@ -53,7 +55,7 @@ Apaixonado por tecnologia, busco sempre aprender e evoluir em áreas como **dese
 
 ---
 
-## 📫 Contatos
+<p align="center">## 📫 Contatos</p>
 <p align="center">
   <a href="#em andamento"><img src="https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=yellow&style=for-the-badge"></a>
   <a href="https://linkedin.com/in/gabryellgs"><img src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=0A66C2&style=for-the-badge"></a>
@@ -62,11 +64,10 @@ Apaixonado por tecnologia, busco sempre aprender e evoluir em áreas como **dese
 
 ---
 
-## 📊 Estatísticas
+<p align="center">## 📊 Estatísticas</p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabryellgs&theme=gotham&layout=compact" width="40%">
 </p>
-
 <p align="center">
   <img src="https://github-readme-stats-one-bice.vercel.app/api?username=gabryellgs&theme=gotham&show_icons=true&count_private=true" width="48%">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=gabryellgs&theme=gotham" width="48%">
@@ -74,21 +75,21 @@ Apaixonado por tecnologia, busco sempre aprender e evoluir em áreas como **dese
 
 ---
 
-## 📈 Atividade
+<p align="center">## 📈 Atividade</p>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=gabryellgs&theme=gotham&area=true" width="95%">
 </p>
 
 ---
 
-## 🏆 Troféus
+<p align="center">## 🏆 Troféus</p>
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=gabryellgs&theme=dracula&layout=compact" width="95%">
 </p>
 
 ---
 
-## 💬 Frase Motivacional
+<p align="center">## 💬 Frase Motivacional</p>
 <div align="center">
   <i>
     "Nunca deixe que alguém lhe diga que você não pode fazer algo!<br>
