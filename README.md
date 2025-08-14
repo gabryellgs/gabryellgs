@@ -43,7 +43,7 @@
 </a> 
 -->
 
-<img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/2nd%20arrow.gif?raw=true">
+<img src="https://github.com/gabryellgs/gabryellgs/blob/master/2nd%20arrow.gif?raw=true">
 
 
   <!-- Typing SVG by jrohitofficial - https://github.com/jrohitofficial/readme-typing-svg -->
@@ -76,9 +76,6 @@
 <a href="https://github.com/gabryellgs?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=gabryellgs&theme=gotham&hide_border=false&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@RJ's github-readme-streak-stats"/></a>
 </p>
 
-
-<!-- <p align="center">
-  <a href="https://github.com/jrohitofficial"><img src="contributions.svg"></a> -->
 </p>
 
 <br/>
