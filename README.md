@@ -26,10 +26,13 @@
 <h2 align="center">Gabryell da Silva Gonçalves</h2>
 
 <p align="center">
- 👋 I’m Gabryell Gonçalves, curious, determined, and always seeking new challenges. I thrive on pushing my limits, learning from every experience, and growing stronger every day.
- 🌱 I’m creative and proactive, always looking for ways to make things happen and leave a mark. I enjoy exploring new ideas, thinking outside the box, and turning plans into action.
- ⚡ I value personal growth, discipline, and focus. I take initiative, embrace challenges confidently, and strive to turn every opportunity into progress.
- 🎯 This profile reflects my mindset, my journey, and what I care about: curiosity, perseverance, creativity, and making a real impact. I’m open to collaboration, exchanging ideas, and connecting with people who share the same drive.
+👋 I’m Gabryell Gonçalves, curious, determined, and always seeking new challenges. I thrive on pushing my limits, learning from every experience, and growing stronger every day.
+ 
+🌱 I’m creative and proactive, always looking for ways to make things happen and leave a mark. I enjoy exploring new ideas, thinking outside the box, and turning plans into action.
+ 
+⚡ I value personal growth, discipline, and focus. I take initiative, embrace challenges confidently, and strive to turn every opportunity into progress.
+
+🎯 This profile reflects my mindset, my journey, and what I care about: curiosity, perseverance, creativity, and making a real impact. I’m open to collaboration, exchanging ideas, and connecting with people who share the same drive.
 </p>
 
 <img src="https://github.com/gabryellgs/gabryellgs/blob/master/2nd%20arrow.gif?raw=true">
