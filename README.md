@@ -26,7 +26,13 @@
 <h2 align="center">Gabryell da Silva Gonçalves</h2>
 
 <p align="center">
-  I am Gabryell Gonçalves, a student of Internet Systems at the Federal Institute of Rio Grande do Norte – Canguaretama Campus. I have a strong interest in digital technologies and software development, with a focus on web development, backend development using Laravel, Linux automation, and database management. I am committed to continuously enhancing my knowledge and skills, combining theory and practice, with the goal of becoming a highly qualified and versatile professional in IT, contributing to innovative projects.
+ 👋 I’m Gabryell Gonçalves, curious, determined, and always seeking new challenges. I thrive on pushing my limits, learning from every experience, and growing stronger every day.
+
+🌱 I’m creative and proactive, always looking for ways to make things happen and leave a mark. I enjoy exploring new ideas, thinking outside the box, and turning plans into action.
+
+⚡ I value personal growth, discipline, and focus. I take initiative, embrace challenges confidently, and strive to turn every opportunity into progress.
+
+🎯 This profile reflects my mindset, my journey, and what I care about: curiosity, perseverance, creativity, and making a real impact. I’m open to collaboration, exchanging ideas, and connecting with people who share the same drive.
 </p>
 
 <img src="https://github.com/gabryellgs/gabryellgs/blob/master/2nd%20arrow.gif?raw=true">
