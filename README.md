@@ -1,16 +1,15 @@
-<!-- GIF de fundo -->
 <div align="center">
-  <img src="https://github.com/gabryellgs/gabryellgs/blob/master/wallpaper-principal.gif?raw=true" width="800" height="250">
+
+  <!-- GIF de fundo -->
+  <img src="wallpaper-principal.gif" width="800" height="400" style="display: block;">
+
+  <!-- WidgetBox por cima -->
+  <img src="https://github-widgetbox.vercel.app/api/profile?username=gabryellgs&data=followers,repositories,stars,commits&theme=dark"
+       alt="GitHub WidgetBox"
+       style="position: absolute; top: 20px; left: 50%; transform: translateX(-50%); width: 90%;">
+
 </div>
 
-
-
-<!-- GIF de fundo -->
-<p align="center">
-  <a href="https://github.com/gabryellgs">
-    <img src="https://github.com/gabryellgs/gabryellgs/blob/master/wallpaper-principal.gif?raw=true" width="800" height="250" alt="Background GIF"/>
-  </a>
-</p>
 
 <!-- Footer GIF -->
 <p align="center">
