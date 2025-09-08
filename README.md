@@ -3,6 +3,15 @@
   <img src="https://github.com/gabryellgs/gabryellgs/blob/master/wallpaper-principal.gif?raw=true" width="800" height="250">
 </div>
 
+
+
+<!-- GIF de fundo -->
+<p align="center">
+  <a href="https://github.com/gabryellgs">
+    <img src="https://github.com/gabryellgs/gabryellgs/blob/master/wallpaper-principal.gif?raw=true" width="800" height="250" alt="Background GIF"/>
+  </a>
+</p>
+
 <!-- Footer GIF -->
 <p align="center">
   <a href="https://github.com/gabryellgs">
@@ -10,12 +19,13 @@
   </a>
 </p>
 
-<!-- Dynamic Typing Text -->
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=20C20E&center=true&vCenter=true&width=1000&lines=Full+Stack+Developer;I%27m+Gabryell+Goncalves;Curious+and+driven+learner;Passionate+about+technology+and+innovation;Always+seeking+new+challenges;Turning+ideas+into+action" alt="Typing SVG" />
+<!-- Dynamic Typing Text sobre o GIF -->
+<p align="center" style="margin-top: -200px;">
+  <a href="https://github.com/gabryellgs">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=20C20E&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;I%27m+Gabryell+Goncalves" alt="Typing SVG" />
   </a>
 </p>
+
 
 <!-- Texto pessoal -->
 <p align="center">
