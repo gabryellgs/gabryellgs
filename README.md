@@ -27,7 +27,7 @@
 
 <!-- Texto pessoal -->
 <p align="center">
-  I’m Gabryell Gonçalves, curious, determined, and always seeking new challenges. I thrive on pushing my limits, learning from every experience, and growing stronger every day. I’m creative and proactive, always looking for ways to make things happen and leave a mark. I enjoy exploring new ideas, thinking outside the box, and turning plans into action. I value personal growth, discipline, and focus. I take initiative, embrace challenges confidently, and strive to turn every opportunity into progress. This profile reflects my mindset, my journey, and what I care about: curiosity, perseverance, creativity, and making a real impact. I’m open to collaboration, exchanging ideas, and connecting with people who share the same drive.
+ Full Stack Developer | I’m Gabryell Gonçalves, a passionate developer who loves building applications from front to back. I enjoy learning new technologies, solving problems, and creating efficient solutions. Curious, proactive, and always eager to grow.
 </p>
 
 <!-- Setinha animada -->
