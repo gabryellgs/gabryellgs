@@ -5,8 +5,7 @@
 
   <!-- WidgetBox por cima -->
   <img src="https://github-widgetbox.vercel.app/api/profile?username=gabryellgs&data=followers,repositories,stars,commits&theme=dark"
-       alt="GitHub WidgetBox"
-       style="position: absolute; top: 20px; left: 50%; transform: translateX(-50%); width: 90%;">
+       alt="GitHub WidgetBox">
 
 </div>
 
