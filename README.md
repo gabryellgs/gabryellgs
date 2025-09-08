@@ -24,11 +24,14 @@
 <!-- Dynamic Typing Texts -->
 <p align="center" style="margin-top: -200px; margin-bottom: 60px;">
 
+
   <!-- Dynamic Profession -->
   <a href="https://github.com/gabryellgs" style="display:block; margin-bottom: 20px;">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=1E90FF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer" 
          alt="Typing SVG Profession" />
   </a>
+<!-- Dynamic Typing Texts -->
+<p align="center" style="margin-top: -200px; margin-bottom: 60px;">
 
   <!-- Fixed Name -->
   <a href="https://github.com/gabryellgs" style="display:block;">
