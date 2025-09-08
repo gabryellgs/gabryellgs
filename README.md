@@ -26,8 +26,8 @@
 
 
 <!-- Texto pessoal -->
-<p align="center">
- Full Stack Developer | I’m Gabryell Gonçalves, a passionate developer who loves building applications from front to back. I enjoy learning new technologies, solving problems, and creating efficient solutions. Curious, proactive, and always eager to grow.
+<p>
+Full Stack Developer | I’m Gabryell Gonçalves, a student in Internet Systems at IFRN and a passionate developer. I enjoy building applications from the front end to the back end, exploring new technologies, and solving complex problems. Curious, proactive, and always eager to grow.
 </p>
 
 <!-- Setinha animada -->
