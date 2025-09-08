@@ -6,30 +6,26 @@
 <!-- Footer GIF -->
 <p align="center">
   <a href="https://github.com/gabryellgs">
-    <img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/277383089-1632db93-5d88-408c-aa7a-3be102febcd3.gif" alt="Animated footer bars" width="100%"/>
+    <img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/277383089-1632db93-5d88-408c-aa7a-3be102febcd3.gif?raw=true" alt="Animated footer bars" width="100%"/>
   </a>
 </p>
 
 <!-- Dynamic Typing Text -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=20C20E&center=true&vCenter=true&width=1000&lines=Full+Stack+Developer;I%27m+Gabryell+Gonçalves;Curious+and+driven+learner;Passionate+about+technology+and+innovation;Always+seeking+new+challenges;Turning+ideas+into+action" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=20C20E&center=true&vCenter=true&width=1000&lines=Full+Stack+Developer;I%27m+Gabryell+Goncalves;Curious+and+driven+learner;Passionate+about+technology+and+innovation;Always+seeking+new+challenges;Turning+ideas+into+action" alt="Typing SVG" />
   </a>
 </p>
 
-<!-- Footer GIF repetido, se quiser manter -->
+<!-- Texto pessoal -->
 <p align="center">
-  <a href="https://github.com/gabryellgs">
-    <img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/277383089-1632db93-5d88-408c-aa7a-3be102febcd3.gif" alt="Animated footer bars" width="100%"/>
-  </a>
+  I’m Gabryell Gonçalves, curious, determined, and always seeking new challenges. I thrive on pushing my limits, learning from every experience, and growing stronger every day. I’m creative and proactive, always looking for ways to make things happen and leave a mark. I enjoy exploring new ideas, thinking outside the box, and turning plans into action. I value personal growth, discipline, and focus. I take initiative, embrace challenges confidently, and strive to turn every opportunity into progress. This profile reflects my mindset, my journey, and what I care about: curiosity, perseverance, creativity, and making a real impact. I’m open to collaboration, exchanging ideas, and connecting with people who share the same drive.
 </p>
 
-<p align="center">I’m Gabryell Gonçalves, curious, determined, and always seeking new challenges. I thrive on pushing my limits, learning from every experience, and growing stronger every day. I’m creative and proactive, always looking for ways to make things happen and leave a mark. I enjoy exploring new ideas, thinking outside the box, and turning plans into action. I value personal growth, discipline, and focus. I take initiative, embrace challenges confidently, and strive to turn every opportunity into progress. This profile reflects my mindset, my journey, and what I care about: curiosity, perseverance, creativity, and making a real impact. I’m open to collaboration, exchanging ideas, and connecting with people who share the same drive.
+<!-- Setinha animada -->
+<p align="center">
+  <img src="https://github.com/gabryellgs/gabryellgs/blob/master/2nd%20arrow.gif?raw=true">
 </p>
-
-<img src="https://github.com/gabryellgs/gabryellgs/blob/master/2nd%20arrow.gif?raw=true">
-
-<br>
 
 <!-- Contatos -->
 <h2 align="center">Contatos</h2>
@@ -70,14 +66,14 @@
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=postgres" width="40" height="40"/><br>PostgreSQL</td>
   </tr>
 </table>
-<br>
+
 <!-- Estatísticas -->
 <h2 align="center">Estatísticas</h2>
 <p align="center">
   <img alt="GitHub Stats" height="180" src="https://github-readme-stats.vercel.app/api?username=gabryellgs&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
   <img alt="Top Languages" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabryellgs&theme=tokyonight&layout=compact&langs_count=9&custom_title=Tecnologias" />
 </p>
-<br>
+
 <!-- Motivational Quote -->
 <h3 align="center" style="font-style: italic;">
   "Don't ever let somebody tell you, you can't do something! <br>
@@ -86,14 +82,7 @@
   <b>If you want something, go get it. Period</b>"
 </h3>
 
-<!-- Typing SVG -->
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=50&size=25&pause=1000&color=20C20E&center=true&width=1000&lines=-------------------------------------------------------------------------------------------------" alt="Typing SVG" />
-  </a>
-</p>
-
 <!-- Neon Line -->
 <div align="center">
-  <img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/line-neon.gif" width="100%">
+  <img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/line-neon.gif?raw=true" width="100%">
 </div>
