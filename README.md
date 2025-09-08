@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- GIF de fundo -->
-  <img src="wallpaper-principal.gif"  height="250" width="800">
+  <img src="wallpaper-principal.gif"  height="280" width="800">
 
   <!-- WidgetBox por cima -->
   <img src="https://github-widgetbox.vercel.app/api/profile?username=gabryellgs&data=followers,repositories,stars,commits&theme=dark"
@@ -18,7 +18,7 @@
 </p>
 
 <!-- Dynamic Typing Text sobre o GIF -->
-<p align="center" style="margin-top: -200px;">
+<p align="center" style="margin-top: -150px;">
   <a href="https://github.com/gabryellgs">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=20C20E&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;I%27m+Gabryell+Goncalves" alt="Typing SVG" />
   </a>
