@@ -44,11 +44,6 @@
          alt="Typing SVG Name" />
   </a>
 
-  <p align="center" style="margin-bottom: 60px;">
-  <a href="https://github.com/gabryellgs">
-    <img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/277383089-1632db93-5d88-408c-aa7a-3be102febcd3.gif?raw=true" 
-         alt="Animated footer bars" width="100%" style="margin-bottom: 30px;"/>
-  </a>
 
 </p>
 
