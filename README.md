@@ -2,17 +2,20 @@
 <!-- Avatar Central -->
 <p align="center">
   <a href="#em-andamento" target="_blank">
-    <img alt="Coding" width="800" height="300" src="wallpaper-principal.gif">
+    <img alt="Coding" width="800" height="400" src="wallpaper-principal.gif">
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="#em-andamento" target="_blank">
     <img src="https://github-widgetbox.vercel.app/api/profile?username=gabryellgs&data=followers,repositories,stars,commits&theme=dark" alt="GitHub WidgetBox" width="90%">
   </a>
+
+  <h3 align="center">
+    <img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/code.gif?raw=true" height="40">
+  </h3>
+  
 </p>
 
-<h3 align="center">
-  <img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/code.gif?raw=true" height="40">
-</h3>
+
 
 <p align="center">
   <a href="https://github.com/jrohitofficial">
