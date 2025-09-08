@@ -34,6 +34,13 @@
 
 </p>
 
+<p align="center" style="margin-bottom: 60px;">
+  <a href="https://github.com/gabryellgs">
+    <img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/277383089-1632db93-5d88-408c-aa7a-3be102febcd3.gif?raw=true" 
+         alt="Animated footer bars" width="100%" style="margin-bottom: 30px;"/>
+  </a>
+</p>
+
 <!-- About Me -->
 <p style="margin: 30px 0; line-height: 1.8; text-align: center;">
   <strong>Full Stack Developer</strong> | I’m Gabryell Gonçalves, a student of Internet Systems at IFRN. I specialize in developing web applications from front-end to back-end. I enjoy exploring new technologies, solving real-world problems, and turning ideas into functional projects. I’m curious, determined, and passionate about continuous learning. I aim to contribute to meaningful solutions while growing as a developer every day.
