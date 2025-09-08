@@ -30,9 +30,14 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=1E90FF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer" 
          alt="Typing SVG Profession" />
   </a>
-<!-- Dynamic Typing Texts -->
-<p align="center" style="margin-top: -200px; margin-bottom: 60px;">
 
+<p align="center" style="margin-bottom: 60px;">
+  <a href="https://github.com/gabryellgs">
+    <img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/277383089-1632db93-5d88-408c-aa7a-3be102febcd3.gif?raw=true" 
+         alt="Animated footer bars" width="100%" style="margin-bottom: 30px;"/>
+  </a>
+     
+</p>
   <!-- Fixed Name -->
   <a href="https://github.com/gabryellgs" style="display:block;">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=20C20E&center=true&vCenter=true&width=800&lines=I%27m+Gabryell+Goncalves" 
