@@ -28,7 +28,7 @@
 
   <!-- Fixed Name -->
   <a href="https://github.com/gabryellgs" style="display:block;">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=20C20E&center=true&vCenter=true&width=800&lines=I%27m+Gabryell+Goncalves" 
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=20C20E&center=true&vCenter=true&width=800&lines=I%27m+Gabryell+Gonçalves" 
          alt="Typing SVG Name" />
   </a>
 
@@ -42,6 +42,9 @@
 </p>
 
 <!-- About Me -->
+<h1 align="center">
+  <strong>Gabryell Gonçalves</strong> 
+</h1>
 <p style="margin: 30px 0; line-height: 2.5; text-align: center;">
   <strong>Full Stack Developer</strong> | I’m Gabryell Gonçalves, a student of Internet Systems at IFRN. I specialize in developing web applications from front-end to back-end. I enjoy exploring new technologies, solving real-world problems, and turning ideas into functional projects. I’m curious, determined, and passionate about continuous learning. I aim to contribute to meaningful solutions while growing as a developer every day.
 </p>
