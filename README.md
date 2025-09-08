@@ -90,3 +90,24 @@
     <td align="center" width="100"><img src="https://skillicons.dev/icons?i=postgres" width="50"/><br>PostgreSQL</td>
   </tr>
 </table>
+
+
+<!-- GitHub Stats -->
+<h2 align="center" style="margin-bottom: 30px;">📊 GitHub Statistics</h2>
+<p align="center" style="margin-bottom: 50px;">
+  <img alt="GitHub Stats" height="180" src="https://github-readme-stats.vercel.app/api?username=gabryellgs&show_icons=true&theme=tokyonight&include_all_commits=true&locale=en" />
+  <img alt="Top Languages" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabryellgs&theme=tokyonight&layout=compact&langs_count=9&custom_title=Technologies" />
+</p>
+
+<!-- Motivational Quote -->
+<h3 align="center" style="font-style: italic; margin-bottom: 50px;">
+  "Don't ever let somebody tell you, you can't do something! <br>
+  <b>You got a dream… You gotta protect it</b>.<br>
+  People can’t do something themselves, they wanna tell you you can’t do it. <br>
+  <b>If you want something, go get it. Period</b>"
+</h3>
+
+<!-- Neon Line -->
+<div align="center" style="margin-bottom: 60px;">
+  <img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/line-neon.gif?raw=true" width="100%">
+</div>
