@@ -1,26 +1,23 @@
-<div align="center" style="position: relative; display: inline-block;">
-
-  <!-- GIF de fundo -->
-  <img src="wallpaper-principal.gif" width="800" height="250" style="display: block;">
-
+<!-- GIF de fundo -->
+<div align="center">
+  <img src="https://github.com/gabryellgs/gabryellgs/blob/master/wallpaper-principal.gif?raw=true" width="800" height="250">
 </div>
 
-
-
+<!-- Footer GIF -->
 <p align="center">
   <a href="https://github.com/gabryellgs">
     <img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/277383089-1632db93-5d88-408c-aa7a-3be102febcd3.gif" alt="Animated footer bars" width="100%"/>
   </a>
 </p>
 
-<!-- Dynamic Text -->
+<!-- Dynamic Typing Text -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=20C20E&center=true&vCenter=true&width=1000&lines=Full+Stack+Developer;I'm+Gabryell+Gonçalves;Curious+and+driven+learner;Passionate+about+technology+and+innovation;Always+seeking+new+challenges;Turning+ideas+into+action" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=20C20E&center=true&vCenter=true&width=1000&lines=Full+Stack+Developer;I%27m+Gabryell+Gonçalves;Curious+and+driven+learner;Passionate+about+technology+and+innovation;Always+seeking+new+challenges;Turning+ideas+into+action" alt="Typing SVG" />
   </a>
 </p>
 
-
+<!-- Footer GIF repetido, se quiser manter -->
 <p align="center">
   <a href="https://github.com/gabryellgs">
     <img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/277383089-1632db93-5d88-408c-aa7a-3be102febcd3.gif" alt="Animated footer bars" width="100%"/>
