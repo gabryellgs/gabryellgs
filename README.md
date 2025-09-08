@@ -2,7 +2,7 @@
 <!-- Avatar Central -->
 <p align="center">
   <a href="#em-andamento" target="_blank">
-    <img alt="Coding" width="300" height="500" src="transferir.gif">
+    <img alt="Coding" width="700" height="300" src="transferir.gif">
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="#em-andamento" target="_blank">
