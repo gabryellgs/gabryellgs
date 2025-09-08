@@ -1,19 +1,14 @@
+<div align="center" style="position: relative; display: inline-block;">
 
-<!-- Avatar Central -->
-<p align="center">
-  <a href="#em-andamento" target="_blank">
-    <img alt="Coding" width="800" height="400" src="wallpaper-principal.gif">
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="#em-andamento" target="_blank">
-    <img src="https://github-widgetbox.vercel.app/api/profile?username=gabryellgs&data=followers,repositories,stars,commits&theme=dark" alt="GitHub WidgetBox" width="90%">
-  </a>
+  <!-- GIF de fundo -->
+  <img src="wallpaper-principal.gif" width="800" height="400" style="display: block;">
 
-  <h3 align="center">
-    <img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/code.gif?raw=true" height="40">
-  </h3>
-  
-</p>
+  <!-- WidgetBox por cima -->
+  <img src="https://github-widgetbox.vercel.app/api/profile?username=gabryellgs&data=followers,repositories,stars,commits&theme=dark"
+       alt="GitHub WidgetBox"
+       style="position: absolute; top: 20px; left: 50%; transform: translateX(-50%); width: 90%;">
+
+</div>
 
 
 
