@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- GIF de fundo -->
-  <img src="wallpaper-principal.gif"  height="=200" width="800">
+  <img src="wallpaper-principal.gif"  height="250" width="800">
 
   <!-- WidgetBox por cima -->
   <img src="https://github-widgetbox.vercel.app/api/profile?username=gabryellgs&data=followers,repositories,stars,commits&theme=dark"
