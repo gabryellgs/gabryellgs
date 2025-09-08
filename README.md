@@ -21,12 +21,21 @@
   </a>
 </p>
 
-<!-- Dynamic Typing Text -->
+<!-- Dynamic Typing Texts -->
 <p align="center" style="margin-top: -200px; margin-bottom: 60px;">
-  <a href="https://github.com/gabryellgs">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=1E90FF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;I%27m+Gabryell+Goncalves" 
-         alt="Typing SVG" />
+
+  <!-- Dynamic Profession -->
+  <a href="https://github.com/gabryellgs" style="display:block; margin-bottom: 20px;">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=1E90FF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer" 
+         alt="Typing SVG Profession" />
   </a>
+
+  <!-- Fixed Name -->
+  <a href="https://github.com/gabryellgs" style="display:block;">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=20C20E&center=true&vCenter=true&width=800&lines=I%27m+Gabryell+Goncalves" 
+         alt="Typing SVG Name" />
+  </a>
+
 </p>
 
 <!-- About Me -->
@@ -36,7 +45,7 @@
 
 <!-- Animated Arrow -->
 <p align="center" style="margin: 50px 0;">
-  <img src="https://github.com/gabryellgs/gabryellgs/blob/master/2nd%20arrow.gif?raw=true" alt="Arrow GIF">
+  <img src="https://github.com/gabryellgs/gabryellgs/blob/master/2nd%20arrow.gif" alt="Arrow GIF">
 </p>
 
 <!-- Contacts -->
@@ -65,36 +74,4 @@
     <td align="center" width="100"><img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="50"/><br>Git</td>
     <td align="center" width="100"><img src="https://skillicons.dev/icons?i=laravel" width="50"/><br>Laravel</td>
     <td align="center" width="100"><img src="https://skillicons.dev/icons?i=html" width="50"/><br>HTML5</td>
-    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=css" width="50"/><br>CSS</td>
-    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=bootstrap" width="50"/><br>Bootstrap</td>
-  </tr>
-  <tr>
-    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=mongodb" width="50"/><br>MongoDB</td>
-    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=nodejs" width="50"/><br>Node.js</td>
-    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=php" width="50"/><br>PHP</td>
-    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=vscode" width="50"/><br>VSCode</td>
-    <td align="center" width="100"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="50"/><br>SQLite</td>
-    <td align="center" width="100"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50"/><br>Java</td>
-    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=postgres" width="50"/><br>PostgreSQL</td>
-  </tr>
-</table>
-
-<!-- GitHub Stats -->
-<h2 align="center" style="margin-bottom: 30px;">📊 GitHub Statistics</h2>
-<p align="center" style="margin-bottom: 50px;">
-  <img alt="GitHub Stats" height="180" src="https://github-readme-stats.vercel.app/api?username=gabryellgs&show_icons=true&theme=tokyonight&include_all_commits=true&locale=en" />
-  <img alt="Top Languages" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabryellgs&theme=tokyonight&layout=compact&langs_count=9&custom_title=Technologies" />
-</p>
-
-<!-- Motivational Quote -->
-<h3 align="center" style="font-style: italic; margin-bottom: 50px;">
-  "Don't ever let somebody tell you, you can't do something! <br>
-  <b>You got a dream… You gotta protect it</b>.<br>
-  People can’t do something themselves, they wanna tell you you can’t do it. <br>
-  <b>If you want something, go get it. Period</b>"
-</h3>
-
-<!-- Neon Line -->
-<div align="center" style="margin-bottom: 60px;">
-  <img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/line-neon.gif?raw=true" width="100%">
-</div>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i
