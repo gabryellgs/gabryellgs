@@ -14,7 +14,7 @@
 </p>
 
 <h3 align="center">
-  <img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/code.gif?raw=true" height="20">
+  <img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/code.gif?raw=true" height="40">
 </h3>
 
 <p align="center">
