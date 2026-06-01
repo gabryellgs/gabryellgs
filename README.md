@@ -51,7 +51,7 @@
 
 <!-- Animated Arrow -->
 <p align="center" style="margin: 50px 0;">
-  <img src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif" alt="Arrow GIF">
+  <img src="https://media.giphy.com/media/KAq5w47R9rmTuxXUOs/giphy.gif" alt="Code GIF" width="35"/>
 </p>
 
 <!-- Contacts -->
@@ -94,12 +94,11 @@
   </tr>
 </table>
 
-
 <!-- GitHub Stats -->
 <h2 align="center" style="margin-bottom: 30px;">📊 GitHub Statistics</h2>
 <p align="center" style="margin-bottom: 50px;">
-  <img alt="GitHub Stats" height="180" src="https://github-readme-stats.vercel.app/api?username=gabryellgs&show_icons=true&theme=tokyonight&include_all_commits=true&locale=en" />
-  <img alt="Top Languages" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabryellgs&theme=tokyonight&layout=compact&langs_count=9&custom_title=Technologies" />
+  <img alt="GitHub Stats" height="180" src="https://github-readme-stats.vercel.app/api?username=gabryellgs&show_icons=true&theme=tokyonight&include_all_commits=true&locale=en&cache_seconds=1800" />
+  <img alt="Top Languages" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabryellgs&theme=tokyonight&layout=compact&langs_count=9&custom_title=Technologies&cache_seconds=1800" />
 </p>
 
 <!-- Motivational Quote -->
