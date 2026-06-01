@@ -1,80 +1,70 @@
-<div align="center">
+<div align="center" style="margin-bottom: 60px;">
 
-<img src="wallpaper-principal.gif" height="250" width="800"/>
+  <!-- Background GIF -->
+  <img src="wallpaper-principal.gif" height="250" width="800" style="margin-bottom: 30px;">
 
-<br/>
-
-<img src="https://github-widgetbox.vercel.app/api/profile?username=gabryellgs&data=followers,repositories,stars,commits&theme=dark" alt="GitHub WidgetBox"/>
+  <!-- GitHub WidgetBox -->
+  <img src="https://github-widgetbox.vercel.app/api/profile?username=gabryellgs&data=followers,repositories,stars,commits&theme=dark"
+       alt="GitHub WidgetBox" style="margin-bottom: 30px;">
 
 </div>
 
----
-
-<p align="center">
+<!-- Footer GIF -->
+<p align="center" style="margin-bottom: 60px;">
   <a href="https://github.com/gabryellgs">
     <img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/277383089-1632db93-5d88-408c-aa7a-3be102febcd3.gif?raw=true" 
-         alt="Animated footer bars" width="100%"/>
+         alt="Animated footer bars" width="100%" style="margin-bottom: 30px;"/>
   </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/gabryellgs">
+<!-- Dynamic Typing Texts -->
+<p align="center" style="margin-top: -200px; margin-bottom: 60px;">
+
+  <!-- Dynamic Profession -->
+  <a href="https://github.com/gabryellgs" style="display:block; margin-bottom: 20px;">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=1E90FF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer" 
-         alt="Full Stack Developer"/>
+         alt="Typing SVG Profession" />
   </a>
-</p>
 
-<p align="center">
-  <a href="https://github.com/gabryellgs">
+  <!-- Fixed Name -->
+  <a href="https://github.com/gabryellgs" style="display:block;">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=20C20E&center=true&vCenter=true&width=800&lines=I%27m+Gabryell+Goncalves" 
-         alt="I'm Gabryell Goncalves"/>
+         alt="Typing SVG Name" />
   </a>
+
 </p>
 
-<p align="center">
+<p align="center" style="margin-bottom: 60px;">
   <a href="https://github.com/gabryellgs">
     <img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/277383089-1632db93-5d88-408c-aa7a-3be102febcd3.gif?raw=true" 
-         alt="Animated footer bars" width="100%"/>
+         alt="Animated footer bars" width="100%" style="margin-bottom: 30px;"/>
   </a>
 </p>
 
----
-
-<h1 align="center">Gabryell da Silva Gonçalves</h1>
-
-<p align="center">
-  <strong>Full Stack Developer</strong> | Estudante de Sistemas para Internet no IFRN.<br/>
-  Especializado em desenvolvimento web do front-end ao back-end.<br/>
-  Curioso, determinado e apaixonado por aprendizado contínuo.
+<!-- About Me -->
+<h1 align="center">
+  <strong>Gabryell da Silva Gonçalves</strong> 
+</h1>
+<p style="margin: 30px 0; line-height: 2.5; text-align: center;">
+  <strong>Full Stack Developer</strong> | I'm Gabryell Gonçalves, a student of Internet Systems at IFRN. I specialize in developing web applications from front-end to back-end. I enjoy exploring new technologies, solving real-world problems, and turning ideas into functional projects. I'm curious, determined, and passionate about continuous learning. I aim to contribute to meaningful solutions while growing as a developer every day.
 </p>
 
-<p align="center">
-  <img src="https://github.com/gabryellgs/gabryellgs/blob/master/2nd%20arrow.gif" alt="Arrow GIF"/>
+<!-- Animated Arrow -->
+<p align="center" style="margin: 50px 0;">
+  <img src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif" alt="Arrow GIF">
 </p>
 
----
-
-## 📫 Contato
-
-<p align="center">
-  <a href="https://gabryellgs-portfolio.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=yellow&style=for-the-badge"/>
-  </a>
-  &nbsp;
-  <a href="https://linkedin.com/in/gabryellgs" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=0A66C2&style=for-the-badge"/>
-  </a>
-  &nbsp;
-  <a href="https://instagram.com/gabryel.gs_" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=Instagram&logoColor=E4405F"/>
-  </a>
+<!-- Contacts -->
+<h2 align="center" style="margin-bottom: 30px;">📫 Contact</h2>
+<p align="center" style="margin-bottom: 50px;">
+  <a href="https://gabryellgs-portfolio.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=yellow&style=for-the-badge" style="margin-right: 15px;"/></a>
+  <a href="https://linkedin.com/in/gabryellgs" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=0A66C2&style=for-the-badge" style="margin-right: 15px;"/></a>
+  <a href="https://instagram.com/gabryel.gs_" target="_blank"><img src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=Instagram&logoColor=E4405F"/></a>
 </p>
 
----
-
-## 💻 Tecnologias & Habilidades
-
-<table align="center">
+<!-- Skills -->
+<h2 align="center" style="margin-bottom: 30px;">💻 Technologies & Skills</h2>
+<table align="center" style="margin-bottom: 50px;">
   <tr>
     <td align="center" width="100"><img src="https://techstack-generator.vercel.app/react-icon.svg" width="50"/><br>React</td>
     <td align="center" width="100"><img src="https://techstack-generator.vercel.app/python-icon.svg" width="50"/><br>Python</td>
@@ -104,25 +94,23 @@
   </tr>
 </table>
 
----
 
-## 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img alt="GitHub Stats" height="180" src="https://github-readme-stats.vercel.app/api?username=gabryellgs&show_icons=true&theme=tokyonight&include_all_commits=true&locale=en"/>
-  &nbsp;
-  <img alt="Top Languages" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabryellgs&theme=tokyonight&layout=compact&langs_count=9&custom_title=Technologies"/>
+<!-- GitHub Stats -->
+<h2 align="center" style="margin-bottom: 30px;">📊 GitHub Statistics</h2>
+<p align="center" style="margin-bottom: 50px;">
+  <img alt="GitHub Stats" height="180" src="https://github-readme-stats.vercel.app/api?username=gabryellgs&show_icons=true&theme=tokyonight&include_all_commits=true&locale=en" />
+  <img alt="Top Languages" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabryellgs&theme=tokyonight&layout=compact&langs_count=9&custom_title=Technologies" />
 </p>
 
----
-
-<h3 align="center">
-  <em>"Don't ever let somebody tell you, you can't do something!</em><br/>
-  <strong>You got a dream… You gotta protect it.</strong><br/>
-  <em>People can't do something themselves, they wanna tell you you can't do it.</em><br/>
-  <strong>If you want something, go get it. Period."</strong>
+<!-- Motivational Quote -->
+<h3 align="center" style="font-style: italic; margin-bottom: 50px;">
+  "Don't ever let somebody tell you, you can't do something! <br>
+  <b>You got a dream… You gotta protect it</b>.<br>
+  People can't do something themselves, they wanna tell you you can't do it. <br>
+  <b>If you want something, go get it. Period</b>"
 </h3>
 
-<div align="center">
-  <img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/line-neon.gif?raw=true" width="100%"/>
+<!-- Neon Line -->
+<div align="center" style="margin-bottom: 60px;">
+  <img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/line-neon.gif?raw=true" width="100%">
 </div>
