@@ -57,7 +57,7 @@
 <!-- Contacts -->
 <h2 align="center" style="margin-bottom: 30px;">📫 Contact</h2>
 <p align="center" style="margin-bottom: 50px;">
-  <a href="#em-andamento" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=yellow&style=for-the-badge" style="margin-right: 15px;"/></a>
+  <a href="https://gabryellgs-portfolio.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=yellow&style=for-the-badge" style="margin-right: 15px;"/></a>
   <a href="https://linkedin.com/in/gabryellgs" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=0A66C2&style=for-the-badge" style="margin-right: 15px;"/></a>
   <a href="https://instagram.com/gabryel.gs_" target="_blank"><img src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=Instagram&logoColor=E4405F"/></a>
 </p>
