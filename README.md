@@ -46,7 +46,7 @@
   <strong>Gabryell da Silva Gonçalves</strong> 
 </h1>
 <p style="margin: 30px 0; line-height: 2.5; text-align: center;">
-  <strong>Full Stack Developer</strong> | I'm Gabryell Gonçalves, a student of Internet Systems at IFRN. I specialize in developing web applications from front-end to back-end. I enjoy exploring new technologies, solving real-world problems, and turning ideas into functional projects. I'm curious, determined, and passionate about continuous learning. I aim to contribute to meaningful solutions while growing as a developer every day.
+  <strong>Software Developer</strong> | I'm Gabryell Gonçalves, a student of Internet Systems at IFRN. I specialize in developing web applications from front-end to back-end. I enjoy exploring new technologies, solving real-world problems, and turning ideas into functional projects. I'm curious, determined, and passionate about continuous learning. I aim to contribute to meaningful solutions while growing as a developer every day.
 </p>
 
 <!-- Animated Arrow -->
